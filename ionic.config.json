@@ -1,0 +1,7 @@
+{
+  "name": "budgetizr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
